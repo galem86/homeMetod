@@ -11,8 +11,8 @@ public class Main {
 
         System.out.println("Задача2");
         String firstName1 = " Ivanov Ivan Ivanovich";
-        String firstNameTrue = firstName1.replace("i", "I");
-        System.out.println(firstNameTrue);
+        String firstName1True = firstName1.replace("i", "I");
+        System.out.println(firstName1True);
         System.out.println("");
 
         System.out.println("Задача3");
